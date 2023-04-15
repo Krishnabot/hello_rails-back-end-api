@@ -1,13 +1,32 @@
 
-# 📖 hello_rails-back-end-api
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+- [👥 Authors](#authors)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖H ello_rails-back-end-api <a name="about-project"></a>
 
 **hello_rails-back-end-api** is the backend part of a full-stack application built with rails as an api &react for the front end
 
-Follow this [Hello-rails-Frontend](https://github.com/Krishnabot/Hello-rails-Frontend) for the frontend repo
+## 🛠 Built With <a name="built-with"></a>
 
-## 🛠 Built With 
-
-### Tech Stack
+### Tech Stack <a name="tech-stack"></a>
 
 ![](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) 
 <br/>
@@ -15,14 +34,32 @@ Follow this [Hello-rails-Frontend](https://github.com/Krishnabot/Hello-rails-Fro
 <br/>
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Key Features
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
 
 - This is a BackEnd part of the  FullStack Application that consists of two separate repositories.
 - React and Rails are used in these repositories to develop the frontend and backend parts of the application respectively.
 - The Rails repository is an API-only application that provides the backend functionality for the application.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 💻 Getting Started 
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+
+- [Live Demo Link : Not applicable](#)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -40,6 +77,7 @@ Clone this repo with git. Run the following command in your terminal:
 ```sh
   git clone https://github.com/Krishnabot/hello_rails-back-end-api.git
 ```
+
 
 ### Install
 
@@ -71,8 +109,13 @@ To start the server use the following command:
 
 <hr>
 
-## 👥 Author
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- AUTHORS -->
+
+## 👥 Author <a name="authors"></a>
+
+> Mention all of the collaborators of this project.
 👤 **Krishna Prasad Acharya**
 
 - GitHub: [@krishnabot](https://github.com/Krishnabot)
@@ -81,24 +124,71 @@ To start the server use the following command:
 
 
 
-## 🤝 Contributing
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[new_feature_1]**
+- [ ] **[new_feature_2]**
+- [ ] **[new_feature_3]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/Krishnabot/hello_rails-back-end-api/issues).
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## ⭐️ Show your support
+<!-- SUPPORT -->
 
-Give a ⭐️ if you like this project!
+## ⭐️ Show your support <a name="support"></a>
 
+> Write a message to encourage readers to support your project
+
+If you like this project...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - Microverse for overseeing the project.
 - Thanks to my learning partners mentor and peer  for their help and support
 
+I would like to thank...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+
+> Add at least 2 questions new developers would ask when they decide to use your project.
+
+- **[Question_1]**
+
+  - [Answer_1]
+
+- **[Question_2]**
+
+  - [Answer_2]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
