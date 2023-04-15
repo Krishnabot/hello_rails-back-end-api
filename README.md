@@ -31,13 +31,14 @@ To get a local copy up and running, follow these steps.
 - Ruby installed in your computer. ([install guide](https://www.ruby-lang.org/en/downloads/))
 - Rails installed in your computer. ( [Set up Guide for Rails ](https://guides.rubyonrails.org/v5.1/getting_started.html))
 - Code editor preferably [Vscode](https://code.visualstudio.com/).
+- Complete instructions to configure Front End [Hello-rails-Frontend-Readme](https://github.com/Krishnabot/Hello-rails-Frontend/blob/feature/hello-rails-frontend/README.md)
 
 ### Setup
 
 Clone this repo with git. Run the following command in your terminal:
 
 ```sh
-  git https://github.com/Krishnabot/hello_rails-back-end-api.git
+  git clone https://github.com/Krishnabot/hello_rails-back-end-api.git
 ```
 
 ### Install
