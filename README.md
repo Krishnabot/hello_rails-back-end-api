@@ -1,3 +1,4 @@
+<a name="readme-top"></a>
 
 # 📗 Table of Contents
 
@@ -15,14 +16,14 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖H ello_rails-back-end-api <a name="about-project"></a>
+# 📖Hello_rails-back-end-api <a name="about-project"></a>
 
 **hello_rails-back-end-api** is the backend part of a full-stack application built with rails as an api &react for the front end
+- Follow this [Hello-rails-Frontend](https://github.com/Krishnabot/Hello-rails-Frontend) for the frontend repo
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -42,6 +43,7 @@
 - This is a BackEnd part of the  FullStack Application that consists of two separate repositories.
 - React and Rails are used in these repositories to develop the frontend and backend parts of the application respectively.
 - The Rails repository is an API-only application that provides the backend functionality for the application.
+- Complete instructions to configure Front End [Hello-rails-Frontend-Readme](https://github.com/Krishnabot/Hello-rails-Frontend/blob/feature/hello-rails-frontend/README.md)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -126,19 +128,7 @@ To start the server use the following command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
 
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -165,26 +155,8 @@ If you like this project...
 - Microverse for overseeing the project.
 - Thanks to my learning partners mentor and peer  for their help and support
 
-I would like to thank...
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
-
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
