@@ -9,4 +9,4 @@ Greeting.create(text: 'Hello, world !')
 Greeting.create(text: 'हेल्लो संसार !')
 Greeting.create(text: 'ハローワールド !')
 Greeting.create(text: 'Hallo Welt !')
-Greeting.create(text: 'Hola mundo !'
+Greeting.create(text: 'Hola mundo !')
